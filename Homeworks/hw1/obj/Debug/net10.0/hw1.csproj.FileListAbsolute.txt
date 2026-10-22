@@ -95,3 +95,4 @@
 /home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw1/obj/Debug/net10.0/hw1.pdb
 /home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw1/obj/Debug/net10.0/hw1.genruntimeconfig.cache
 /home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw1/obj/Debug/net10.0/ref/hw1.dll
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw1/obj/Debug/net10.0/hw1.sourcelink.json

@@ -6,8 +6,10 @@ namespace hw1.Controllers;
 
 public class HomeController : Controller
 {
-    public IActionResult Index()
+    public IActionResult Index(string name, string surname)
     {
+        ViewData ["Name"] = name;
+        ViewData ["Surname"] = surname;
         return View();
     }
 
@@ -21,4 +23,7 @@ public class HomeController : Controller
     {
         return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
     }
+
+
+
 }
