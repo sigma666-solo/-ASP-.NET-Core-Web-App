@@ -2,4 +2,7 @@
   <Folder Name="/Homeworks/">
     <Project Path="Homeworks/hw1/hw1.csproj" />
   </Folder>
+  <Folder Name="/Homeworks/hw2/">
+    <Project Path="Homeworks/hw2/di_container/di_container.csproj" />
+  </Folder>
 </Solution>

@@ -1,0 +1,98 @@
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/bin/Debug/net10.0/appsettings.Development.json
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/bin/Debug/net10.0/appsettings.json
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/bin/Debug/net10.0/dependency enjection.staticwebassets.runtime.json
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/bin/Debug/net10.0/dependency enjection.staticwebassets.endpoints.json
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/bin/Debug/net10.0/dependency enjection
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/bin/Debug/net10.0/dependency enjection.deps.json
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/bin/Debug/net10.0/dependency enjection.runtimeconfig.json
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/bin/Debug/net10.0/dependency enjection.dll
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/bin/Debug/net10.0/dependency enjection.pdb
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/rpswa.dswa.cache.json
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/dependency enjection.GeneratedMSBuildEditorConfig.editorconfig
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/dependency enjection.AssemblyInfoInputs.cache
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/dependency enjection.AssemblyInfo.cs
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/dependency enjection.csproj.CoreCompileInputs.cache
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/dependency enjection.MvcApplicationPartsAssemblyInfo.cache
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/dependency enjection.RazorAssemblyInfo.cache
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/dependency enjection.RazorAssemblyInfo.cs
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/dependency enjection.sourcelink.json
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/rjimswa.dswa.cache.json
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/scopedcss/bundle/dependency enjection.styles.css
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/scopedcss/projectbundle/dependency enjection.bundle.scp.css
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/compressed/mwpvgopl9w-{0}-lugek5hnai-lugek5hnai.gz
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/compressed/r4bzzb4sop-{0}-61n19gt1b8-61n19gt1b8.gz
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/compressed/xzoywi8tvp-{0}-fr7q2aak1r-fr7q2aak1r.gz
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/compressed/5inex4hdtk-{0}-bqjiyaj88i-bqjiyaj88i.gz
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/compressed/x3bhbx7aj7-{0}-c2jlpeoesf-c2jlpeoesf.gz
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/compressed/629h3pptbu-{0}-erw9l3u2r3-erw9l3u2r3.gz
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/compressed/hor7iiq6ua-{0}-aexeepp0ev-aexeepp0ev.gz
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/compressed/f2qo8dd3zx-{0}-d7shbmvgxk-d7shbmvgxk.gz
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/compressed/bmsxccvmgc-{0}-ausgxo2sd3-ausgxo2sd3.gz
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/compressed/clw69oz95j-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/compressed/gol85snjkl-{0}-cosvhxvwiu-cosvhxvwiu.gz
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/compressed/o0wuwradyc-{0}-ub07r2b239-ub07r2b239.gz
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/compressed/aejkgmq2qc-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/compressed/c8e1ffeka2-{0}-b7pk76d08c-b7pk76d08c.gz
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/compressed/v4bp4hmj7c-{0}-fsbi9cje9m-fsbi9cje9m.gz
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/compressed/61tyxdv1ui-{0}-rzd6atqjts-rzd6atqjts.gz
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/compressed/7keer5rne7-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/compressed/peujd03vc4-{0}-dxx9fxp4il-dxx9fxp4il.gz
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/compressed/vyec6ybtka-{0}-jd9uben2k1-jd9uben2k1.gz
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/compressed/7idkj50t7y-{0}-khv3u5hwcm-khv3u5hwcm.gz
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/compressed/r0xjildo3n-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/compressed/6c629k8onr-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/compressed/lx0bz3epyi-{0}-c2oey78nd0-c2oey78nd0.gz
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/compressed/no7ysvbsra-{0}-tdbxkamptv-tdbxkamptv.gz
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/compressed/om0eaew92v-{0}-j5mq2jizvt-j5mq2jizvt.gz
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/compressed/ztaqw8c5au-{0}-06098lyss8-06098lyss8.gz
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/compressed/8bb424os91-{0}-nvvlpmu67g-nvvlpmu67g.gz
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/compressed/05k2t05xyh-{0}-s35ty4nyc5-s35ty4nyc5.gz
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/compressed/rx8040el7x-{0}-pj5nd1wqec-pj5nd1wqec.gz
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/compressed/is71nfgpmg-{0}-46ein0sx1k-46ein0sx1k.gz
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/compressed/y23305mu1g-{0}-v0zj4ognzu-v0zj4ognzu.gz
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/compressed/46t80ak7k1-{0}-37tfw0ft22-37tfw0ft22.gz
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/compressed/rl39y70ake-{0}-hrwsygsryq-hrwsygsryq.gz
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/compressed/0q7t82tjoc-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/compressed/3se95jo2po-{0}-ft3s53vfgj-ft3s53vfgj.gz
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/compressed/ltjsnok0dm-{0}-6cfz1n2cew-6cfz1n2cew.gz
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/compressed/i9eibj16xg-{0}-6pdc2jztkx-6pdc2jztkx.gz
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/compressed/0qbyptxscn-{0}-493y06b0oq-493y06b0oq.gz
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/compressed/3e2ivkivzd-{0}-iovd86k7lj-iovd86k7lj.gz
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/compressed/nz6bzhkiu5-{0}-vr1egmr9el-vr1egmr9el.gz
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/compressed/atmkupi6q3-{0}-kbrnm935zg-kbrnm935zg.gz
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/compressed/ddvtfpm1c2-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/compressed/7ww2lniqr8-{0}-y7v9cxd14o-y7v9cxd14o.gz
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/compressed/yfpuabgkzi-{0}-notf2xhcfb-notf2xhcfb.gz
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/compressed/7o7gpggi0f-{0}-h1s4sie4z3-h1s4sie4z3.gz
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/compressed/hru8yntgeq-{0}-63fj8s7r0e-63fj8s7r0e.gz
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/compressed/prk6oae414-{0}-0j3bgjxly4-0j3bgjxly4.gz
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/compressed/b12zf177pw-{0}-47otxtyo56-47otxtyo56.gz
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/compressed/yhp25bx04x-{0}-4v8eqarkd7-4v8eqarkd7.gz
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/compressed/g31o52fcq1-{0}-l3n5xuwxn8-l3n5xuwxn8.gz
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/compressed/5ommhzgknl-{0}-ilo7uva0vt-ilo7uva0vt.gz
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/compressed/57gltj2xqo-{0}-qlccset4i1-qlccset4i1.gz
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/compressed/46t21xpb0c-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/compressed/3yon8ojsuv-{0}-ag7o75518u-ag7o75518u.gz
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/compressed/jstuhmdif6-{0}-xzw0cte36n-xzw0cte36n.gz
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/compressed/kholnwll7i-{0}-0i3buxo5is-0i3buxo5is.gz
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/compressed/3j7u38tu2d-{0}-o1o13a6vjx-o1o13a6vjx.gz
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/compressed/h2kntmwktv-{0}-ttgo8qnofa-ttgo8qnofa.gz
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/compressed/cxnv4dr79w-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/compressed/jsypjugy7z-{0}-muycvpuwrr-muycvpuwrr.gz
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/compressed/i3mlt96w0e-{0}-87fc7y1x7t-87fc7y1x7t.gz
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/compressed/6o6uwlpii8-{0}-jfsiqqwiad-jfsiqqwiad.gz
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/compressed/kanrwb974c-{0}-7j1ivzlw1x-7j1ivzlw1x.gz
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/compressed/2iypfl08ko-{0}-7j1ivzlw1x-7j1ivzlw1x.gz
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/staticwebassets.build.json
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/staticwebassets.build.json.cache
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/staticwebassets.development.json
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/swae.build.ex.cache
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/dependency enjection.dll
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/refint/dependency enjection.dll
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/dependency enjection.pdb
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/dependency enjection.genruntimeconfig.cache
+/home/asuka/Documents/Top-academy/-ASP-.NET-Core-Web-App/Homeworks/hw3/dependency enjection/obj/Debug/net10.0/ref/dependency enjection.dll
