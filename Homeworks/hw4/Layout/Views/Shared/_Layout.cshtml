@@ -1,0 +1,22 @@
+﻿<!DOCTYPE html>
+<html lang="ru">
+<head >
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <title>@ViewData["Title"] - Ballista's web app</title>
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand navbar-dark bg-dark">
+            <div class="container">
+                <div class="navbar-nav">
+                    <a class="nav-link" asp-controller="Home" asp-action="Index">Главная</a>
+                    <a class="nav-link" asp-controller="Home" asp-action="Projects">Проекты</a>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <main class="container py-4">
+        @RenderBody()
+    </main>
+</body>
+</html>
