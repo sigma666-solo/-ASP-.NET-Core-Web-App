@@ -1,0 +1,31 @@
+﻿@model Cat
+<div class="container mt-5">
+
+    <h1 class="text-danger">Удаление кота!</h1>
+
+    <div class="row">
+        <!-- Cat Image -->
+        <div class="col-md-6 mb-4">
+            <img src="@Model.UrlPhoto" alt="Product" class="img-fluid rounded mb-3 product-image" id="mainImage">
+        </div>
+
+        <!-- Product Details -->
+        <div class="col-md-6">
+            <h2 class="mb-3">Имя: @Model.Name</h2>
+            <p class="text-muted mb-4">Цвет: @Model.Color</p>
+            <div class="mb-3">
+                <span class="h4 me-2">Возраст: @Model.Age</span>
+            </div>
+            <p class="mb-4">
+                Описание: @Model.Description
+            </p>
+
+            <a asp-controller="Home" asp-action="Index" class="link-primary">Назад</a>
+
+            <form asp-action="ConfirmDelete" method="post">
+                <input asp-for="@Model.Id" type="hidden"/>
+                <button value="@Model.Id" class="btn btn-danger" type="submit">Подтвердить удаление</button>
+            </form>
+        </div>
+    </div>
+</div>

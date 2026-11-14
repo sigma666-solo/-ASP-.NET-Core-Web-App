@@ -1,0 +1,56 @@
+@model AddCatPage
+
+<form method="post">
+
+    <div class="form-group">
+        <label class="control-label">Имя: </label>
+        <input asp-for="@Model.Cat.Name" class="form-control" />
+
+        @if (Model.ValidationAddCat.IncorrectName != null && Model.ValidationAddCat.IncorrectName.Length > 0)
+            {
+                <p class="text-danger">@Model.ValidationAddCat.IncorrectName</p>
+            }
+    </div>
+
+    <div class="form-group">
+        <label class="control-label">Возраст: </label>
+        <input asp-for="@Model.Cat.Age" type="number" class="form-control" />
+
+            @if (Model.ValidationAddCat.IncorrectAge != null && Model.ValidationAddCat.IncorrectAge.Length > 0)
+            {
+                <p class="text-danger">@Model.ValidationAddCat.IncorrectAge</p>
+            }
+        </div>
+
+    <div class="form-group">
+        <label class="control-label">Цвет: </label>
+        <input asp-for="@Model.Cat.Color" class="form-control" />
+
+        @if (!string.IsNullOrEmpty(Model.ValidationAddCat.IncorrectColor))
+        {
+            <p class="text-danger">@Model.ValidationAddCat.IncorrectColor</p>
+        }
+    </div>
+
+    <div class="form-group">
+        <label class="control-label">Описание: </label>
+        <input asp-for="@Model.Cat.Description" class="form-control" />
+
+        @if (!string.IsNullOrEmpty(Model.ValidationAddCat.IncorrectDescription))
+        {
+            <p class="text-danger">@Model.ValidationAddCat.IncorrectDescription</p>
+        }
+    </div>
+
+    <div class="form-group">
+        <label class="control-label">Ссылка на фотографию: </label>
+        <input asp-for="@Model.Cat.UrlPhoto" class="form-control" />
+
+        @if (!string.IsNullOrEmpty(Model.ValidationAddCat.IncorrectUrlPhoto))
+        {
+            <p class="text-danger">@Model.ValidationAddCat.IncorrectUrlPhoto</p>
+        }
+    </div>
+
+    <button type="submit" class="btn btn-primary">Сохранить</button>
+</form>
