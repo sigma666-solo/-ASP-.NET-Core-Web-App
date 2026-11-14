@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="DiContainer/DiContainer.csproj" Id="6a5fa1c3-1d32-4273-8f7d-8eb85cab9f90" />
+  <Project Path="Lesson1/Lesson1.csproj" />
+  <Project Path="Lesson2/Lesson2.csproj" Id="8c6fea8c-148c-47ef-9e78-f90b47a8740f" />
+  <Project Path="Lesson3/Lesson3.csproj" Id="23af892c-7ffc-4e34-92da-ba1f8ad981ac" />
+  <Project Path="Lesson4/Lesson4.csproj" Id="593e5761-9d47-4105-98a6-c6caaa0164dc" />
+  <Project Path="Lesson5/Lesson5.csproj" Id="a46b53c2-b041-48af-9eeb-87d5eb8600a8" />
+  <Project Path="Lesson6/Lesson6.csproj" Id="20f08a72-e66f-414c-aef5-e40bff5a9316" />
+  <Project Path="UnitTests/UnitTests.csproj" Id="5653bed1-93d1-475c-9d67-104badc46029" />
+</Solution>

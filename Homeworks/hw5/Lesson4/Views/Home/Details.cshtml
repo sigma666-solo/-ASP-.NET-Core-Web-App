@@ -1,0 +1,33 @@
+﻿@model FavoriteCatPage
+
+<div class="container mt-5">
+    <div class="row">
+        <!-- Cat Image -->
+        <div class="col-md-6 mb-4">
+            <img src="@Model.Cat.UrlPhoto" alt="Product" class="img-fluid rounded mb-3 product-image" id="mainImage">
+        </div>
+
+        <!-- Product Details -->
+        <div class="col-md-6">
+            <h2 class="mb-3">Имя: @Model.Cat.Name</h2>
+            <p class="text-muted mb-4">Цвет: @Model.Cat.Color</p>
+            <div class="mb-3">
+                <span class="h4 me-2">Возраст: @Model.Cat.Age</span>
+            </div>
+            <p class="mb-4">
+                Описание: @Model.Cat.Description
+            </p>
+
+            <a asp-controller="Home" asp-action="Index" class="link-primary">Назад</a>
+
+            @if (Model.IsFavorite)
+            {
+                <a asp-controller="Home" asp-action="RemoveFavorite" asp-route-id="@Model.Cat.Id" class="btn btn-danger" role="button">Удалить из избранного</a>
+            }
+            else
+            {
+                <a asp-controller="Home" asp-action="AddFavorite" asp-route-id="@Model.Cat.Id" class="btn btn-success" role="button">Добавить в избранное</a>
+            }
+        </div>
+    </div>
+</div>
